@@ -10,3 +10,7 @@
   * Drag and drop the encrypted text file on the `decryptor.bat` or run the application, it will ask to enter the encrypted data. Once after giving data, it will ask for a key for decryption. It will decrypt the data and generate a decrypted file.
 
 ## Author - `YUVARAJ JONNA`
+
+
+## LICENSE
+MIT
